@@ -1,4 +1,4 @@
----
+kauri---
 title: An Introduction to Solidity for Experienced Developers
 summary: This post applies to Solidity 0.5.x, I am working on an update for 0.6.x. Youre an experienced JavaScript/Java/Python/Go/Ruby/Rust/COBOL/somethingelse developer
 authors:
